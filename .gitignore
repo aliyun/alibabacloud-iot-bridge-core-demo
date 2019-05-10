@@ -1,0 +1,24 @@
+.tmp
+target/
+*.log.*
+**/*.log
+**/*.log.*
+*.class
+.gitkeep
+
+# Eclipse project files
+.project
+.settings/
+.classpath
+
+# IDEA project files
+.idea/
+*.iml
+**/*.iml
+*.eml
+**/*.eml
+*.ipr
+*.iws
+
+*.log
+*.log.*
